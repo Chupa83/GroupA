@@ -1,0 +1,2 @@
+# GroupA
+Prakticni zadatak
